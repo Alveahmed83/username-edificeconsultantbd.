@@ -1,0 +1,8 @@
+{
+  "name": "Remix Edifice Consultants",
+  "description": "Official corporate website for Edifice Consultants and Edifice Home Appliances — The Nexus of Art \u0026 Technology. Led by Principal Architect Faruk Ahmed, MIAB A-140, Former Faculty at BUET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
