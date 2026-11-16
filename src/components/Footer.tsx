@@ -17,7 +17,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigateSection }) => {
   };
 
   return (
-    <footer className="bg-[#0E1014] text-zinc-300 border-t border-white/10">
+    <footer className="relative z-10 bg-[#0E1014] text-zinc-300 border-t border-white/10">
       <div className="max-w-[1280px] mx-auto px-6 lg:px-10 py-14">
         <div className="grid grid-cols-1 md:grid-cols-12 gap-10 pb-12 border-b border-white/10">
           {/* Brand Column */}
